@@ -10,12 +10,8 @@ func SumEven(limit int) (int) {
 		if fib[2] % 2 == 0 {
 			result += fib[2]
 		}		
-		
-		//println(fib[0])
-		//println(fib[1])
-		//println(fib[2])		
 	}
-	//println(fib[2])
+
 	return result
 }
 
