@@ -11,7 +11,6 @@ func SumEven(limit int) (int) {
 			result += fib[2]
 		}		
 	}
-
 	return result
 }
 
